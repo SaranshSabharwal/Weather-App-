@@ -1,4 +1,4 @@
-# Weather-App-
+# Weather-App-Website
 This web app lets you see real-time weather! Enter a city, and it displays temperature, conditions, humidity, and wind speed using HTML, CSS, JS &amp; OpenWeather API.
 
 Plan your day with confidence using this sleek weather app! Built with modern web technologies (HTML, CSS, and JavaScript), it seamlessly integrates with the OpenWeather API to provide real-time weather information for any city you choose.

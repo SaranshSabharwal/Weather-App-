@@ -24,4 +24,5 @@ JavaScript Fetch API or Libraries: The app can leverage the built-in JavaScript 
 Data Parsing and Display: Once weather data is retrieved, JavaScript parses the response to extract relevant information and dynamically updates the HTML elements displaying the weather details on your webpage.
 
 This project was inspired and created by following GreatStack youtube tutorial
+
 This project uses OpenWeather API 

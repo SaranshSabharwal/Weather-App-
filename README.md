@@ -23,6 +23,4 @@ OpenWeather API Key: To utilize the OpenWeather API, you'll need to obtain a fre
 JavaScript Fetch API or Libraries: The app can leverage the built-in JavaScript Fetch API or utilize popular libraries like Axios to make requests to the OpenWeather API and retrieve weather data.
 Data Parsing and Display: Once weather data is retrieved, JavaScript parses the response to extract relevant information and dynamically updates the HTML elements displaying the weather details on your webpage.
 
-This project was inspired and created by following GreatStack youtube tutorial
-
 This project uses OpenWeather API 
